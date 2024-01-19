@@ -21,3 +21,13 @@ This section explains the recommended file structure for the project
     │   ├── ....
     ├── .gitignore
     └── README.md
+
+## Overview
+The main objective of the project is to build a database to keep track of the different vaccine 
+types, transportation of vaccine batches, treatment plans, staff schedules of vaccinations 
+events, and patient data for Corona vaccine distribution and treatment in Finland.
+
+## Purpose of the database
+The purpose of the database is to model and manage the distribution of vaccines. The 
+database is designed to track information about vaccine manufacturers, vaccine batches, 
+vaccination events, patients, and symptoms.
