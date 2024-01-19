@@ -31,3 +31,17 @@ events, and patient data for Corona vaccine distribution and treatment in Finlan
 The purpose of the database is to model and manage the distribution of vaccines. The 
 database is designed to track information about vaccine manufacturers, vaccine batches, 
 vaccination events, patients, and symptoms.
+
+## Handling of the database
+Setting up the database
+First, we need to run the files ‘creating_the_database.py’ to create the database, connect to 
+it and fill it with the provided data.
+
+## Queries for creating tables
+The queries needed for creating the tables and filling them with the provided data are 
+contained in the file ‘Script-2.sql’, and we could run it with the same file mentioned 
+above.
+
+## Queries for the data visualization
+The queries used to visualize the data are located in the file ‘visualization.py’. After running 
+the file, we should have the plots and figures as outputs.
